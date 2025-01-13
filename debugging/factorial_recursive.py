@@ -3,6 +3,7 @@ import sys
 
 def factorial(n):
     """
+    Function Description:
     Calculate the factorial of a given non-negative integer using recursion.
 
     Parameters:
